@@ -27,7 +27,7 @@ class FactionMain extends PluginBase implements Listener {
     public $esssentialspe;
     public $factionChatActive = [];
     public $allyChatActive = [];
-    private $prefix = "§7[§6Void§bFactions§cPE§7]";
+    private $prefix = "§b§lBlackWebPE§r";
     
     const HEX_SYMBOL = "e29688";
 
